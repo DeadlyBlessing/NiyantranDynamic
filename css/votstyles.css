@@ -1,0 +1,22 @@
+#title{
+  background: #f7890b;
+}
+
+.navbar-brand{
+  padding-left: 45%;
+  padding-top: 3%;
+  padding-bottom: 3%;
+
+  font-size: 3rem;
+}
+
+body{
+  background: #fff7e0;
+}
+
+.table{
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 5%;
+  margin: auto;
+}
